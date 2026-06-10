@@ -1,0 +1,6 @@
+.env
+__pycache__/
+logs/
+bot/**/__pycache__/
+finance_data.json
+telegram_bot_balance.json
